@@ -1,4 +1,4 @@
 # demoi
 this is my first git repo
 <br>
-Author madhav 
+Author madhav soni
